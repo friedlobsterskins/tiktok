@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 01 Nov 2020 19:33:41 at https://vipto.de +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Pns2u1%s%uN0%I0p3DaK0H0%kf2A25000%f0#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%l "en, *" https://vipto.de -O1 "C:\Users\fried\Desktop\Website copies\Ill get it" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:33:52	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from https://vipto.de/)
+19:33:52	Error: 	"Bad Request" (400) at link www.googletagmanager.com/ (from https://vipto.de/)
+19:33:53	Warning: 	Moved Permanently for www.google-analytics.com/
+19:33:53	Warning: 	File has moved from www.google-analytics.com/ to https://www.google.com/analytics/
+19:33:53	Warning: 	Moved Permanently for stats.g.doubleclick.net/
+19:33:53	Warning: 	File has moved from stats.g.doubleclick.net/ to https://www.google.com/analytics/
+19:33:53	Error: 	"Not Found" (404) at link adservice.google.com/ (from https://vipto.de/)
+19:33:54	Error: 	"Not Found" (404) at link pagead2.googlesyndication.com/ (from https://vipto.de/)
+19:33:54	Error: 	"Not Found" (404) at link tpc.googlesyndication.com/ (from https://vipto.de/)
+19:33:54	Warning: 	Moved Permanently for googleads.g.doubleclick.net/
+19:33:54	Warning: 	File has moved from googleads.g.doubleclick.net/ to https://marketingplatform.google.com/about/enterprise/
+19:33:56	Warning: 	Found for ajax.googleapis.com/
+19:33:56	Warning: 	File has moved from ajax.googleapis.com/ to https://developers.google.com/speed/libraries/devguide
+19:33:56	Warning: 	Warning: store text/css without scan: C:/Users/fried/Desktop/Website copies/Ill get it/cdnjs.cloudflare.com/cf.core.css
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 seconds : 36 links scanned, 16 files written (1222224 bytes overall) [407452 bytes received at 22636 bytes/sec], 1127010 bytes transferred using HTTP compression in 21 files, ratio 24%, 1.3 requests per connection
+(5 errors, 9 warnings, 0 messages)
