@@ -1,8 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-vipto.de	TRUE	/	FALSE	1999999999	PHPSESSID	806l3jsetb7rh6ehu86p2bodl3
-.vipto.de	TRUE	/	FALSE	1999999999	__cfduid	dbe56722633a9461b4dab4a8e8da1c8681604277231
-vipto.de	TRUE	/	FALSE	1999999999	SameSite	Lax
-.www.cloudflare.com	TRUE	/	FALSE	1999999999	__cf_bm	81723e2d9933045fdee9b14cf0f76d520a1aa0f2-1604277235-1800-AWGdImDPafjsybVghi39NB/jOk5RS/k9MWqteN/LVX0MFsFZbrfT0Ij9kXvTDNBdYvi0gH8ajxV9f2WNArUGdmM=
-www.cloudflare.com	TRUE	/	FALSE	1999999999	SameSite	None
-
